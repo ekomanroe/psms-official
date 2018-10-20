@@ -1,4 +1,5 @@
-# my-pos
+# psms-official
+official website of psms medan
 
 > A Vue.js project
 
